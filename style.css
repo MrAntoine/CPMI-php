@@ -1,0 +1,7 @@
+table {
+    border: medium solid #000000;
+    width: 20%;
+}
+td, th {
+    border: thin solid #6495ed;
+}
